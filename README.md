@@ -1,1 +1,1 @@
-Its a text Classification LLM fine tuned on bert.
+Its a text Classification LLM trained  on bert.
